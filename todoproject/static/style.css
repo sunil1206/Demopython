@@ -1,0 +1,15 @@
+.banner{
+background-color: green;
+width:100%;
+height:200px;
+margin-bottom:50px;
+}
+
+.banner-text{
+color:gold;
+top:50%;
+left:50%;
+text-align: center;
+transform:transform;
+padding: 78px;
+}
